@@ -8,6 +8,6 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^7.1.0",
-    "guerrillamail-api": "^1.2.2"
+    "guerrillamail-api": "git+https://github.com/realrecordzLab/guerrillamail-api.git"
   }
 }
