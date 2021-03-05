@@ -1,7 +1,7 @@
 {
-  "name": "pdf2images",
+  "name": "guerrillamail-cli",
   "version": "1.0.0",
-  "description": "Convert pdf to images using cli",
+  "description": "Create disposable email address from cli using Guerrillamail api",
   "main": "index.js",
   "bin": "index.js",
   "author": "Bruno Paolillo <realrecordzlab@gmail.com>",
