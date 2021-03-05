@@ -1,0 +1,15 @@
+{
+  "name": "pdf2images",
+  "version": "1.0.0",
+  "description": "Convert pdf to images using cli",
+  "main": "index.js",
+  "bin": {
+    "pdf2images": "index.js"
+  },
+  "author": "Bruno Paolillo <realrecordzlab@gmail.com>",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0",
+    "guerrillamail-api": "^1.2.2"
+  }
+}
