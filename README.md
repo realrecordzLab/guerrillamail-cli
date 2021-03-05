@@ -5,17 +5,17 @@ A simple node CLI script to get a disposable email address from Guerrillamail AP
 
 Clone the repository
 ```
-git clone https://github.com/realrecordzLab/guerrillamail-cli.git
+host:~ dev$ git clone https://github.com/realrecordzLab/guerrillamail-cli.git
 ```
 Navigate to the repo folder
 ```
-host:~ dev$ cd /guerrillamail-cli
+host:~ dev$ cd guerrillamail-cli/
 ```
 Install dependencies
 ```
-npm install
+host:guerrillamail-cli dev$ guerrillamail-cli npm install
 ```
 Run the script
 ```
-dev$ guerrillamail-cli node index.js
+host:guerrillamail-cli dev$ node index.js
 ```
