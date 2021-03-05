@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Convert pdf to images using cli",
   "main": "index.js",
-  "bin": {
-    "pdf2images": "index.js"
-  },
+  "bin": "index.js",
   "author": "Bruno Paolillo <realrecordzlab@gmail.com>",
   "dependencies": {
     "chalk": "^4.1.0",
